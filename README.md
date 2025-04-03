@@ -35,7 +35,7 @@ pip install opencv-python pyrealsense2 ultralytics numpy
 
 ### 3. Identify Camera Indices
 
-To find the correct index for RealSense and OBS Virtual Camera, run this helper script:
+To find the correct index for RealSense and OBS Virtual Camera, run this helper script, this script is present in `checkIndex.py` file:
 
 ```python
 import cv2
